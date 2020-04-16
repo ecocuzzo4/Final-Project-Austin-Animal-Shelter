@@ -1,6 +1,9 @@
 # Final Project - Austin Animal Shelter 
 
-Final Project for General Assembly's Data Science Foundations by Emilee Cocuzzo
+Final Project for General Assembly's Data Science Foundations 
+
+By: Emilee Cocuzzo
+
 March 2020
 
 ## Objectives: 
